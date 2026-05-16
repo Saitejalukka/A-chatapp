@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    height:100vh;
+    background:url('../src/images/background/red-light-round-podium-black-260nw-2590157017.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    display:flex;
+    justify-content:center;
+    position:sticky;
+    background-color: black;
+    color: black;
+}
